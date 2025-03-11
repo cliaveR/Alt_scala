@@ -51,7 +51,7 @@ java Client
 - 📊 Add reporting features for concert organizers.
 
 ## Contributors
-👤 **[Your Name]** - Developer
+👤 **rold** - Developer
 
 ## License
 📜 This project is licensed under the MIT License.
